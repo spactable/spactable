@@ -2,7 +2,7 @@
 ### Junior Python Developer · MERN enthusiast
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=verve01&label=Profile%20views&color=0e75b6&style=flat" alt="verve01" />
+  <img src="https://komarev.com/ghpvc/?username=spactable&label=Profile%20views&color=0e75b6&style=flat" alt="spactable" />
 </p>
 
 - 🌱 I'm currently learning **Systems design · Data analytics · Web architectures**
@@ -21,18 +21,6 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
   </a>
