@@ -1,23 +1,23 @@
-<!-- 1. DYNAMIC HEADER -->
+<!-- 1. NEON HEADER (Cyan to Pink Gradient) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ahmed%20Eslam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Cool%20Stuff&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:FF00FF&height=180&section=header&text=AHMED%20ESLAM&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=CYBER%20ARCHITECT&descAlignY=70&descAlign=50" width="100%" />
 </div>
 
-<!-- 2. TYPING TEXT (Aesthetic only) -->
+<!-- 2. GLITCH TEXT EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Systems+Design;Visual+Architecture;Digital+Craftsmanship" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=40&duration=2000&pause=500&color=08F2F2&center=true&vCenter=true&width=500&lines=SYSTEM_OVERRIDE...;INITIALIZING_NEON_CORE;VISUAL_MODE_ACTIVE" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- 3. SYNTHWAVE LOOP (The "Crazy" Visual) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCXpnE2y0YCCoJa/giphy.gif" width="100%" />
 </div>
 
 <br />
 
-<!-- 3. BONGO CAT (Fun Animation) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600" />
-</div>
-
-<br />
-
-<!-- 4. SNAKE TEXTURE (Your existing workflow powers this) -->
+<!-- 4. NEON SNAKE (Wait for the action to run!) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spactable/spactable/output/github-contribution-grid-snake-dark.svg">
