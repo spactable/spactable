@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spactable&layout=compact&theme=react&hide_border=true" />
 </p>
 
-<!-- SNAKE ANIMATION (Will load after the Action runs) -->
+<!-- SNAKE ANIMATION (Will appear after the GitHub Action runs) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spactable/spactable/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spactable/spactable/output/github-contribution-grid-snake.svg">
