@@ -1,4 +1,4 @@
-name: generate-snake-game-from-github-contribution-grid
+name: generate-dark-core-snake
 
 on:
   schedule:
@@ -16,15 +16,16 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate dark snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # PALETTE: Deep Purple & Neon Blue to match the GIF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D1FF&color_dots=#0d1117,#1c1624,#430075,#7d00b3,#bd00ff
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
